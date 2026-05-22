@@ -3,8 +3,8 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/video.mp4",
-      "destination": "/public/video.mp4"
+      "source": "/Mouse_Attack_Shark_floating_black_202605221405.mp4",
+      "destination": "/public/Mouse_Attack_Shark_floating_black_202605221405.mp4"
     }
   ],
   "headers": [
